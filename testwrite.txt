@@ -1,0 +1,3 @@
+This is the write command.
+it allows us to writeb in a particular file.
+if file doesn't exist it will create,if exist it will overwrite.
